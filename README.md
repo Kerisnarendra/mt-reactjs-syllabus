@@ -5,7 +5,7 @@ In this case study, we will be building a basic ATM machine that allows users to
 
 ATM Machine Features:
 - View account balance
-  Implement a function to display the user's account balance.
+-- Implement a function to display the user's account balance.
 - Deposit cash  
 - Withdraw cash
   Implement a function to deduct the requested amount from the user's account balance.
