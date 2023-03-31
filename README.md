@@ -44,7 +44,7 @@ ATM Machine Features:
   
   *Implement a function to deduct the requested amount from the user's account balance.*
   *Implement error handling for invalid account information or insufficient funds.*
-- Authentication with a PIN
+- **Authentication with a PIN**
 
 ### Implementation
 Use NPM to install project dependencies such as React, Redux, Axios, and React-Router.
@@ -89,8 +89,8 @@ ATM Machine Features:
   
   *Implement a function to deduct the requested amount from the user's account balance.*
   *Implement error handling for invalid account information or insufficient funds.*
-- Authentication with JWT authentication
-- Notification
+- **Authentication with JWT authentication**
+- **Notification**
 
 ### Implementation
 Implement JWT authentication to securely authenticate users during account login and transactions.
