@@ -5,11 +5,13 @@ In this case study, we will be building a basic ATM machine that allows users to
 
 ATM Machine Features:
 - View account balance
-    Implement a function to display the user's account balance.
+  
+  Implement a function to display the user's account balance.
 - Deposit cash  
 - Withdraw cash
-    Implement a function to deduct the requested amount from the user's account balance.
-    Implement error handling for invalid account information or insufficient funds.
+  
+  Implement a function to deduct the requested amount from the user's account balance.  
+  Implement error handling for invalid account information or insufficient funds.
 
 ### Implementation
 Create a new Git repository and set up a basic file structure with index.html and main.js files.
@@ -35,11 +37,13 @@ Continuing from the white belt level case study of building an ATM machine, in t
 
 ATM Machine Features:
 - View account balance
-    *Implement a function to display the user's account balance.*
+
+  *Implement a function to display the user's account balance.*
 - Deposit cash  
 - Withdraw cash
-    *Implement a function to deduct the requested amount from the user's account balance.*
-    *Implement error handling for invalid account information or insufficient funds.*
+  
+  *Implement a function to deduct the requested amount from the user's account balance.*
+  *Implement error handling for invalid account information or insufficient funds.*
 - Authentication with a PIN
 
 ### Implementation
@@ -78,11 +82,13 @@ Continuing from the yellow belt level case study of building an ATM machine with
 
 ATM Machine Features:
 - View account balance
-    *Implement a function to display the user's account balance.*
+  
+  *Implement a function to display the user's account balance.*
 - Deposit cash  
 - Withdraw cash
-    *Implement a function to deduct the requested amount from the user's account balance.*
-    *Implement error handling for invalid account information or insufficient funds.*
+  
+  *Implement a function to deduct the requested amount from the user's account balance.*
+  *Implement error handling for invalid account information or insufficient funds.*
 - Authentication with JWT authentication
 - Notification
 
@@ -108,11 +114,13 @@ Continuing from the orange belt level case study of building an ATM machine, in 
 
 ATM Machine Features:
 - View account balance
-    *Implement a function to display the user's account balance.*
+  
+  *Implement a function to display the user's account balance.*
 - Deposit cash  
 - Withdraw cash
-    *Implement a function to deduct the requested amount from the user's account balance.*
-    *Implement error handling for invalid account information or insufficient funds.*
+  
+  *Implement a function to deduct the requested amount from the user's account balance.*
+  *Implement error handling for invalid account information or insufficient funds.*
 - Authentication with JWT authentication
 - Notification
 
