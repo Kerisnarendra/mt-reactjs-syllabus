@@ -14,7 +14,7 @@ ATM Machine Features:
   Implement error handling for invalid account information or insufficient funds.
 
 ### Implementation
-Create a new Git repository and set up a basic file structure with index.html and main.js files.
+Create a new Git repository and set up a basic file structure with index.html and main.js files (*Notes: it will be better if we create a branch for each level*).
 
 Use HTML and CSS to create a simple user interface for the ATM machine, including input fields for the user to enter their account information and transaction details.
 
